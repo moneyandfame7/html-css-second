@@ -1,2 +1,2 @@
-# https://moneyandfame7.github.io/html-css-second/
-CSS manipulations
+# Second layot in life
+https://moneyandfame7.github.io/html-css-second/
